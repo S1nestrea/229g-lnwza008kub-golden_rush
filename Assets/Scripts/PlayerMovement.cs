@@ -4,7 +4,7 @@ using UnityEngine.InputSystem;
 public class PlayerController : MonoBehaviour
 {
     public float playerSpeed = 2;
-    public float horizontalSpeed = 3;
+    public float horizontalSpeed = 5;
     public float rightlimit = 5.5f;
     public float leftlimit = -5.5f; // ต้องเป็นค่าติดลบเพื่อจำกัดฝั่งซ้าย
 
